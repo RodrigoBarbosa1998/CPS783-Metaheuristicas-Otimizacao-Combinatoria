@@ -1,0 +1,2451 @@
+
+
+
+################################################################################################################
+Nome da Instância: 1-FullIns_3.txt
+Número de Vértices: 30, Número de Arestas: 100
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 320.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 345.00
+  - Custo Mediano: 340.00
+  - Desvio Padrão: 27.84
+  - 1º Quartil do Custo: 330.00
+  - 3º Quartil do Custo: 357.50
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 1.11 segundos
+  - Tempo Mediano de Execução: 1.26 segundos
+  - Desvio Padrão do Tempo: 0.27
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 320.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 3, 1, 1, 2, 2, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 2]
+  - Custo Final: 320.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [3, 2, 1, 1, 2, 2, 3, 2, 1, 0, 2, 0, 0, 0, 0, 0, 2, 0, 1, 3, 3, 3, 3, 1, 1, 3, 3, 2, 1, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 16.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.79 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 3, 1, 1, 2, 2, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 0, 2, 0, 4, 4, 3, 4, 0, 1, 0, 1, 0, 2, 4, 1, 1, 1, 4, 2, 3, 3, 4, 2, 3, 2, 3, 1, 3, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 16.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 1.26 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 320.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 345.00
+  - Custo Mediano: 340.00
+  - Desvio Padrão: 27.84
+  - 1º Quartil do Custo: 330.00
+  - 3º Quartil do Custo: 357.50
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 1.13 segundos
+  - Tempo Mediano de Execução: 1.26 segundos
+  - Desvio Padrão do Tempo: 0.25
+
+Melhor Solução para Random:
+  - Custo Inicial: 2276.0
+  - Número de Cores Iniciais: 19
+  - Lista de Cores Iniciais: [7, 18, 2, 5, 12, 5, 9, 5, 10, 20, 4, 11, 12, 20, 27, 27, 24, 5, 16, 23, 15, 6, 4, 20, 17, 12, 20, 3, 25, 23]
+  - Custo Final: 320.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [3, 0, 2, 2, 0, 0, 2, 0, 3, 1, 1, 1, 1, 0, 0, 1, 1, 1, 3, 3, 3, 3, 2, 2, 2, 3, 3, 1, 2, 0]
+  - Initial Conflits: 7
+  - Initial Desbalance: 15.0
+  - Initial Num Colors: 19
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 1.29 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 1678.0
+  - Número de Cores Iniciais: 21
+  - Lista de Cores Iniciais: [8, 19, 16, 5, 28, 27, 20, 8, 9, 3, 18, 2, 2, 11, 10, 29, 21, 19, 24, 22, 3, 5, 21, 23, 4, 0, 24, 14, 16, 10]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 0, 1, 0, 3, 3, 2, 3, 4, 1, 2, 2, 2, 1, 3, 2, 3, 1, 0, 4, 4, 0, 0, 4, 4, 3, 4, 2, 0, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 10.0
+  - Initial Num Colors: 21
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 0.84 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0096 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0098 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: 2-FullIns_3.txt
+Número de Vértices: 52, Número de Arestas: 201
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 451.0
+  - Custo Máximo: 531.0
+  - Custo Médio: 497.67
+  - Custo Mediano: 511.00
+  - Desvio Padrão: 41.63
+  - 1º Quartil do Custo: 481.00
+  - 3º Quartil do Custo: 521.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 4.29 segundos
+  - Tempo Mediano de Execução: 3.82 segundos
+  - Desvio Padrão do Tempo: 1.14
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 451.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [2, 3, 1, 1, 2, 2, 3, 3, 1, 2, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 1, 2, 3]
+  - Custo Final: 451.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 3, 1, 1, 2, 4, 3, 3, 1, 2, 3, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 3, 1, 1, 1, 3, 1, 3, 1, 1, 1, 2, 2, 2, 2, 4, 4, 4, 2, 2, 2, 2, 4, 0, 1, 4, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 30.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 8.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.46 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 531.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [2, 3, 1, 1, 2, 2, 3, 3, 1, 2, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 1, 2, 3]
+  - Custo Final: 531.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 4, 4, 3, 1, 1, 2, 3, 1, 2, 3, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1, 3, 1, 3, 3, 3, 1, 3, 3, 1, 2, 2, 4, 2, 2, 4, 2, 2, 2, 0, 4, 4, 1, 4, 2, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 30.0
+  - Initial Num Colors: 5
+  - End Conflits: 1
+  - End Desbalance: 6.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.82 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 399.0
+  - Custo Máximo: 577.0
+  - Custo Médio: 499.67
+  - Custo Mediano: 523.00
+  - Desvio Padrão: 91.27
+  - 1º Quartil do Custo: 461.00
+  - 3º Quartil do Custo: 550.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 5.51 segundos
+  - Tempo Mediano de Execução: 5.01 segundos
+  - Desvio Padrão do Tempo: 1.32
+
+Melhor Solução para Random:
+  - Custo Inicial: 3017.0
+  - Número de Cores Iniciais: 33
+  - Lista de Cores Iniciais: [2, 21, 1, 32, 19, 47, 35, 45, 19, 8, 37, 2, 42, 23, 30, 10, 34, 48, 6, 8, 17, 20, 26, 5, 49, 20, 2, 3, 24, 27, 41, 24, 39, 41, 19, 37, 9, 15, 30, 51, 24, 18, 22, 20, 35, 51, 2, 39, 40, 40, 35, 19]
+  - Custo Final: 399.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 2, 4, 1, 2, 2, 4, 3, 1, 3, 4, 2, 3, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 2, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 4, 3, 3, 3, 4, 4, 3, 4, 3, 4, 3, 4, 2, 1, 3, 0]
+  - Initial Conflits: 3
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 33
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 5
+  - Tempo de Execução: 7.00 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3017.0
+  - Número de Cores Iniciais: 33
+  - Lista de Cores Iniciais: [24, 6, 21, 45, 50, 47, 13, 25, 3, 22, 17, 3, 50, 29, 36, 13, 35, 7, 35, 48, 46, 2, 1, 21, 5, 31, 22, 39, 22, 6, 49, 45, 9, 27, 37, 13, 30, 3, 18, 24, 4, 1, 15, 39, 21, 22, 43, 37, 45, 6, 44, 16]
+  - Custo Final: 577.0
+  - Número de Cores Finais: 6
+  - Lista de Cores Finais: [2, 0, 1, 4, 4, 2, 1, 1, 3, 2, 1, 4, 3, 5, 1, 1, 3, 3, 0, 5, 0, 0, 5, 5, 4, 4, 1, 5, 4, 2, 2, 4, 1, 2, 2, 2, 3, 3, 0, 5, 3, 3, 0, 0, 5, 4, 3, 5, 2, 4, 0, 1]
+  - Initial Conflits: 3
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 33
+  - End Conflits: 1
+  - End Desbalance: 3.0
+  - End Num Colors: 6
+  - Tempo de Execução: 4.52 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0372 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0478 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale50_10_1.col
+Número de Vértices: 50, Número de Arestas: 121
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 1.97 segundos
+  - Tempo Mediano de Execução: 2.02 segundos
+  - Desvio Padrão do Tempo: 0.42
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 1, 2, 1, 2, 0, 1, 0, 1, 1, 2, 1, 0, 0, 0, 3, 2, 3, 1, 1, 2, 1, 2, 2, 0, 1, 0, 0, 1, 1, 0, 1, 3, 3, 4, 1, 2, 1, 2, 0, 0, 1, 1, 0, 0, 0, 4, 2, 1, 3]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [0, 4, 4, 1, 1, 0, 4, 0, 4, 3, 0, 2, 2, 2, 1, 0, 3, 3, 2, 4, 1, 1, 3, 1, 3, 4, 0, 2, 4, 2, 2, 2, 0, 1, 2, 4, 3, 1, 3, 3, 1, 4, 4, 1, 3, 0, 0, 0, 2, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.37 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 1, 2, 1, 2, 0, 1, 0, 1, 1, 2, 1, 0, 0, 0, 3, 2, 3, 1, 1, 2, 1, 2, 2, 0, 1, 0, 0, 1, 1, 0, 1, 3, 3, 4, 1, 2, 1, 2, 0, 0, 1, 1, 0, 0, 0, 4, 2, 1, 3]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [0, 4, 4, 1, 1, 0, 4, 0, 4, 3, 0, 2, 2, 2, 1, 0, 3, 3, 2, 4, 1, 1, 3, 1, 3, 4, 0, 2, 4, 2, 2, 2, 0, 1, 2, 4, 3, 1, 3, 3, 1, 4, 4, 1, 3, 0, 0, 0, 2, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.37 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 2.30 segundos
+  - Tempo Mediano de Execução: 2.33 segundos
+  - Desvio Padrão do Tempo: 0.22
+
+Melhor Solução para Random:
+  - Custo Inicial: 3048.0
+  - Número de Cores Iniciais: 34
+  - Lista de Cores Iniciais: [46, 2, 36, 37, 38, 22, 13, 40, 47, 7, 28, 11, 17, 20, 13, 20, 12, 25, 8, 21, 30, 25, 34, 10, 3, 25, 12, 38, 3, 40, 49, 28, 29, 32, 37, 0, 40, 46, 15, 12, 0, 31, 23, 5, 6, 35, 27, 30, 14, 36]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 3, 0, 4, 4, 0, 0, 0, 2, 4, 4, 3, 0, 1, 4, 2, 0, 1, 2, 2, 1, 2, 4, 3, 2, 3, 0, 1, 2, 0, 1, 3, 3, 1, 4, 1, 2, 0, 3, 3, 1, 2, 4, 0, 4, 3, 2, 4, 1, 3]
+  - Initial Conflits: 3
+  - Initial Desbalance: 20.0
+  - Initial Num Colors: 34
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.33 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3048.0
+  - Número de Cores Iniciais: 34
+  - Lista de Cores Iniciais: [46, 2, 36, 37, 38, 22, 13, 40, 47, 7, 28, 11, 17, 20, 13, 20, 12, 25, 8, 21, 30, 25, 34, 10, 3, 25, 12, 38, 3, 40, 49, 28, 29, 32, 37, 0, 40, 46, 15, 12, 0, 31, 23, 5, 6, 35, 27, 30, 14, 36]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 3, 0, 4, 4, 0, 0, 0, 2, 4, 4, 3, 0, 1, 4, 2, 0, 1, 2, 2, 1, 2, 4, 3, 2, 3, 0, 1, 2, 0, 1, 3, 3, 1, 4, 1, 2, 0, 3, 3, 1, 2, 4, 0, 4, 3, 2, 4, 1, 3]
+  - Initial Conflits: 3
+  - Initial Desbalance: 20.0
+  - Initial Num Colors: 34
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.33 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0171 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0199 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale50_10_2.col
+Número de Vértices: 50, Número de Arestas: 103
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 320.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 348.33
+  - Custo Mediano: 350.00
+  - Desvio Padrão: 27.54
+  - 1º Quartil do Custo: 335.00
+  - 3º Quartil do Custo: 362.50
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 1.77 segundos
+  - Tempo Mediano de Execução: 1.55 segundos
+  - Desvio Padrão do Tempo: 0.55
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 320.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 2, 2, 1, 1, 0, 1, 1, 0, 2, 1, 3, 0, 0, 1, 1, 0, 2, 1, 3, 0, 1, 3, 0, 2, 1, 2, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 2, 2, 2, 0, 1, 2, 3, 0, 1, 3, 0, 3]
+  - Custo Final: 320.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [2, 2, 2, 1, 1, 0, 1, 1, 0, 2, 1, 3, 0, 0, 1, 1, 0, 2, 1, 3, 0, 1, 3, 0, 2, 1, 3, 1, 1, 3, 2, 3, 2, 2, 0, 0, 0, 3, 2, 3, 2, 0, 1, 2, 3, 0, 3, 3, 0, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 13.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 1.55 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 2, 2, 1, 1, 0, 1, 1, 0, 2, 1, 3, 0, 0, 1, 1, 0, 2, 1, 3, 0, 1, 3, 0, 2, 1, 2, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 2, 2, 2, 0, 1, 2, 3, 0, 1, 3, 0, 3]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 1, 2, 3, 1, 1, 0, 0, 0, 2, 3, 4, 3, 4, 4, 3, 4, 2, 4, 3, 4, 1, 2, 1, 0, 0, 0, 1, 1, 4, 2, 3, 3, 2, 1, 2, 1, 2, 3, 4, 2, 0, 4, 3, 0, 0, 1, 2, 0, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 13.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.39 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 1.89 segundos
+  - Tempo Mediano de Execução: 1.86 segundos
+  - Desvio Padrão do Tempo: 0.12
+
+Melhor Solução para Random:
+  - Custo Inicial: 2791.0
+  - Número de Cores Iniciais: 33
+  - Lista de Cores Iniciais: [26, 20, 45, 39, 29, 31, 1, 29, 13, 27, 37, 46, 11, 44, 32, 47, 40, 15, 17, 48, 44, 9, 39, 6, 27, 24, 11, 29, 25, 14, 10, 20, 27, 17, 46, 46, 5, 43, 34, 39, 35, 7, 30, 18, 15, 9, 19, 11, 34, 26]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [0, 3, 4, 2, 3, 3, 2, 2, 1, 3, 3, 1, 1, 4, 0, 1, 0, 2, 0, 3, 1, 2, 4, 3, 4, 0, 4, 4, 4, 0, 0, 3, 3, 3, 2, 1, 1, 0, 4, 1, 0, 2, 1, 4, 2, 2, 2, 4, 0, 1]
+  - Initial Conflits: 1
+  - Initial Desbalance: 22.0
+  - Initial Num Colors: 33
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 1.86 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 2791.0
+  - Número de Cores Iniciais: 33
+  - Lista de Cores Iniciais: [26, 20, 45, 39, 29, 31, 1, 29, 13, 27, 37, 46, 11, 44, 32, 47, 40, 15, 17, 48, 44, 9, 39, 6, 27, 24, 11, 29, 25, 14, 10, 20, 27, 17, 46, 46, 5, 43, 34, 39, 35, 7, 30, 18, 15, 9, 19, 11, 34, 26]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [0, 3, 4, 2, 3, 3, 2, 2, 1, 3, 3, 1, 1, 4, 0, 1, 0, 2, 0, 3, 1, 2, 4, 3, 4, 0, 4, 4, 4, 0, 0, 3, 3, 3, 2, 1, 1, 0, 4, 1, 0, 2, 1, 4, 2, 2, 2, 4, 0, 1]
+  - Initial Conflits: 1
+  - Initial Desbalance: 22.0
+  - Initial Num Colors: 33
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 1.86 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0153 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0164 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale50_10_3.col
+Número de Vértices: 50, Número de Arestas: 119
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 320.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 348.33
+  - Custo Mediano: 350.00
+  - Desvio Padrão: 27.54
+  - 1º Quartil do Custo: 335.00
+  - 3º Quartil do Custo: 362.50
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 2.03 segundos
+  - Tempo Mediano de Execução: 1.89 segundos
+  - Desvio Padrão do Tempo: 0.30
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 320.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [1, 3, 1, 2, 1, 1, 1, 0, 0, 0, 2, 2, 3, 0, 2, 0, 2, 1, 1, 0, 2, 0, 1, 1, 1, 2, 3, 1, 0, 1, 0, 1, 2, 0, 1, 1, 0, 0, 2, 2, 2, 0, 0, 2, 3, 0, 0, 1, 2, 3]
+  - Custo Final: 320.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [1, 3, 1, 2, 1, 1, 3, 0, 0, 0, 2, 2, 3, 0, 2, 0, 2, 3, 3, 0, 2, 0, 1, 1, 3, 2, 3, 1, 3, 1, 3, 1, 2, 0, 1, 1, 3, 0, 2, 2, 2, 0, 0, 2, 3, 0, 0, 1, 2, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 15.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 1.89 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [1, 3, 1, 2, 1, 1, 1, 0, 0, 0, 2, 2, 3, 0, 2, 0, 2, 1, 1, 0, 2, 0, 1, 1, 1, 2, 3, 1, 0, 1, 0, 1, 2, 0, 1, 1, 0, 0, 2, 2, 2, 0, 0, 2, 3, 0, 0, 1, 2, 3]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 2, 1, 2, 1, 4, 3, 0, 3, 0, 3, 4, 3, 4, 2, 0, 3, 0, 1, 2, 4, 0, 2, 1, 2, 3, 3, 2, 0, 1, 4, 1, 2, 0, 1, 3, 4, 0, 4, 3, 4, 2, 0, 4, 0, 2, 1, 1, 4, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 15.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.37 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 2.27 segundos
+  - Tempo Mediano de Execução: 2.31 segundos
+  - Desvio Padrão do Tempo: 0.08
+
+Melhor Solução para Random:
+  - Custo Inicial: 3031.0
+  - Número de Cores Iniciais: 35
+  - Lista de Cores Iniciais: [30, 10, 35, 34, 49, 15, 8, 10, 2, 39, 45, 34, 33, 22, 14, 6, 37, 39, 39, 5, 15, 33, 43, 21, 19, 0, 17, 44, 47, 47, 23, 1, 28, 31, 7, 14, 35, 26, 18, 27, 15, 3, 15, 35, 37, 32, 40, 48, 8, 48]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 3, 4, 0, 0, 1, 2, 3, 2, 1, 4, 4, 0, 0, 1, 2, 2, 4, 4, 3, 4, 0, 1, 2, 4, 0, 2, 3, 1, 0, 0, 2, 4, 2, 4, 4, 3, 1, 1, 0, 3, 2, 0, 1, 3, 3, 2, 3, 1, 3]
+  - Initial Conflits: 2
+  - Initial Desbalance: 21.0
+  - Initial Num Colors: 35
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.31 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3031.0
+  - Número de Cores Iniciais: 35
+  - Lista de Cores Iniciais: [30, 10, 35, 34, 49, 15, 8, 10, 2, 39, 45, 34, 33, 22, 14, 6, 37, 39, 39, 5, 15, 33, 43, 21, 19, 0, 17, 44, 47, 47, 23, 1, 28, 31, 7, 14, 35, 26, 18, 27, 15, 3, 15, 35, 37, 32, 40, 48, 8, 48]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 3, 4, 0, 0, 1, 2, 3, 2, 1, 4, 4, 0, 0, 1, 2, 2, 4, 4, 3, 4, 0, 1, 2, 4, 0, 2, 3, 1, 0, 0, 2, 4, 2, 4, 4, 3, 1, 1, 0, 3, 2, 0, 1, 3, 3, 2, 3, 1, 3]
+  - Initial Conflits: 2
+  - Initial Desbalance: 21.0
+  - Initial Num Colors: 35
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.31 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0176 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0197 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale50_10_4.col
+Número de Vértices: 50, Número de Arestas: 117
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 1.84 segundos
+  - Tempo Mediano de Execução: 1.83 segundos
+  - Desvio Padrão do Tempo: 0.24
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [0, 2, 1, 2, 0, 0, 1, 3, 1, 1, 0, 2, 2, 1, 0, 3, 1, 0, 1, 1, 1, 3, 0, 0, 1, 1, 2, 2, 1, 1, 2, 2, 3, 2, 1, 0, 1, 0, 3, 3, 0, 2, 0, 2, 3, 0, 0, 3, 1, 0]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 3, 1, 0, 0, 0, 1, 2, 1, 2, 0, 3, 3, 4, 0, 3, 1, 1, 2, 0, 2, 2, 2, 0, 3, 1, 4, 3, 3, 0, 4, 2, 0, 4, 3, 1, 0, 4, 2, 4, 3, 4, 1, 4, 4, 1, 2, 2, 4, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 12.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.09 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [0, 2, 1, 2, 0, 0, 1, 3, 1, 1, 0, 2, 2, 1, 0, 3, 1, 0, 1, 1, 1, 3, 0, 0, 1, 1, 2, 2, 1, 1, 2, 2, 3, 2, 1, 0, 1, 0, 3, 3, 0, 2, 0, 2, 3, 0, 0, 3, 1, 0]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 3, 1, 0, 0, 0, 1, 2, 1, 2, 0, 3, 3, 4, 0, 3, 1, 1, 2, 0, 2, 2, 2, 0, 3, 1, 4, 3, 3, 0, 4, 2, 0, 4, 3, 1, 0, 4, 2, 4, 3, 4, 1, 4, 4, 1, 2, 2, 4, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 12.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.09 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 2.07 segundos
+  - Tempo Mediano de Execução: 2.12 segundos
+  - Desvio Padrão do Tempo: 0.24
+
+Melhor Solução para Random:
+  - Custo Inicial: 3002.0
+  - Número de Cores Iniciais: 33
+  - Lista de Cores Iniciais: [27, 31, 23, 15, 33, 19, 44, 48, 46, 7, 13, 35, 23, 22, 12, 27, 20, 17, 6, 3, 16, 46, 22, 5, 33, 35, 11, 13, 44, 38, 1, 12, 21, 25, 30, 9, 23, 31, 46, 39, 42, 45, 23, 13, 1, 8, 34, 12, 47, 13]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 2, 2, 1, 1, 2, 3, 1, 0, 1, 0, 0, 4, 3, 0, 0, 3, 3, 4, 0, 2, 3, 1, 2, 3, 3, 3, 0, 1, 3, 4, 4, 3, 4, 4, 0, 2, 4, 4, 0, 2, 4, 0, 4, 1, 2, 2, 1, 1, 1]
+  - Initial Conflits: 3
+  - Initial Desbalance: 23.0
+  - Initial Num Colors: 33
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.28 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3002.0
+  - Número de Cores Iniciais: 33
+  - Lista de Cores Iniciais: [27, 31, 23, 15, 33, 19, 44, 48, 46, 7, 13, 35, 23, 22, 12, 27, 20, 17, 6, 3, 16, 46, 22, 5, 33, 35, 11, 13, 44, 38, 1, 12, 21, 25, 30, 9, 23, 31, 46, 39, 42, 45, 23, 13, 1, 8, 34, 12, 47, 13]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 2, 2, 1, 1, 2, 3, 1, 0, 1, 0, 0, 4, 3, 0, 0, 3, 3, 4, 0, 2, 3, 1, 2, 3, 3, 3, 0, 1, 3, 4, 4, 3, 4, 4, 0, 2, 4, 4, 0, 2, 4, 0, 4, 1, 2, 2, 1, 1, 1]
+  - Initial Conflits: 3
+  - Initial Desbalance: 23.0
+  - Initial Num Colors: 33
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.28 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0160 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0179 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale50_10_5.col
+Número de Vértices: 50, Número de Arestas: 100
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 370.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 373.33
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 2.89
+  - 1º Quartil do Custo: 372.50
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 1.87 segundos
+  - Tempo Mediano de Execução: 1.84 segundos
+  - Desvio Padrão do Tempo: 0.33
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 370.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 2, 2, 0, 0, 3, 0, 0, 1, 1, 1, 2, 1, 1, 0, 2, 0, 3, 1, 1, 2, 3, 0, 0, 2, 3, 1, 0, 1, 0, 0, 0, 2, 2, 0, 2, 2, 1, 1, 0, 2, 0, 0, 1, 1, 0, 2, 3, 0, 3]
+  - Custo Final: 370.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [2, 2, 2, 0, 3, 3, 0, 0, 1, 1, 1, 2, 1, 1, 3, 2, 0, 3, 1, 1, 2, 3, 0, 0, 2, 3, 1, 0, 1, 0, 0, 0, 2, 2, 3, 2, 2, 1, 1, 0, 2, 0, 0, 1, 1, 0, 2, 3, 0, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 13.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 7.0
+  - End Num Colors: 4
+  - Tempo de Execução: 1.55 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 2, 2, 0, 0, 3, 0, 0, 1, 1, 1, 2, 1, 1, 0, 2, 0, 3, 1, 1, 2, 3, 0, 0, 2, 3, 1, 0, 1, 0, 0, 0, 2, 2, 0, 2, 2, 1, 1, 0, 2, 0, 0, 1, 1, 0, 2, 3, 0, 3]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 4, 3, 0, 3, 2, 2, 2, 1, 1, 2, 3, 2, 4, 0, 4, 1, 4, 2, 0, 1, 2, 1, 1, 4, 0, 4, 0, 3, 0, 3, 1, 2, 3, 1, 0, 1, 0, 4, 2, 2, 4, 3, 0, 4, 0, 3, 3, 1, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 13.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.21 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 2.03 segundos
+  - Tempo Mediano de Execução: 2.03 segundos
+  - Desvio Padrão do Tempo: 0.33
+
+Melhor Solução para Random:
+  - Custo Inicial: 2902.0
+  - Número de Cores Iniciais: 32
+  - Lista de Cores Iniciais: [39, 9, 35, 12, 35, 13, 48, 37, 6, 7, 47, 26, 42, 37, 1, 26, 45, 49, 29, 25, 15, 3, 41, 5, 11, 6, 7, 15, 38, 11, 9, 22, 12, 42, 20, 14, 15, 26, 31, 30, 13, 27, 8, 41, 11, 43, 6, 49, 17, 20]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 2, 4, 1, 3, 4, 2, 2, 0, 2, 4, 3, 3, 0, 3, 0, 2, 0, 4, 1, 4, 2, 2, 3, 0, 4, 0, 2, 3, 1, 1, 2, 0, 3, 2, 1, 0, 3, 0, 4, 4, 1, 1, 1, 0, 1, 3, 1, 4, 3]
+  - Initial Conflits: 3
+  - Initial Desbalance: 20.0
+  - Initial Num Colors: 32
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.03 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 2902.0
+  - Número de Cores Iniciais: 32
+  - Lista de Cores Iniciais: [39, 9, 35, 12, 35, 13, 48, 37, 6, 7, 47, 26, 42, 37, 1, 26, 45, 49, 29, 25, 15, 3, 41, 5, 11, 6, 7, 15, 38, 11, 9, 22, 12, 42, 20, 14, 15, 26, 31, 30, 13, 27, 8, 41, 11, 43, 6, 49, 17, 20]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 2, 4, 1, 3, 4, 2, 2, 0, 2, 4, 3, 3, 0, 3, 0, 2, 0, 4, 1, 4, 2, 2, 3, 0, 4, 0, 2, 3, 1, 1, 2, 0, 3, 2, 1, 0, 3, 0, 4, 4, 1, 1, 1, 0, 1, 3, 1, 4, 3]
+  - Initial Conflits: 3
+  - Initial Desbalance: 20.0
+  - Initial Num Colors: 32
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 2.03 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0162 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0176 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale60_10_1.col
+Número de Vértices: 60, Número de Arestas: 166
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 4.97 segundos
+  - Tempo Mediano de Execução: 5.66 segundos
+  - Desvio Padrão do Tempo: 1.47
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 2, 3, 0, 0, 1, 0, 1, 1, 0, 2, 1, 2, 0, 1, 3, 3, 0, 2, 3, 1, 1, 3, 0, 3, 1, 3, 1, 0, 0, 2, 2, 0, 3, 2, 4, 3, 0, 0, 3, 0, 0, 1, 1, 1, 1, 1, 2, 0, 1, 2, 3, 2, 1, 2, 2, 0, 2, 2, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 1, 2, 0, 4, 2, 0, 2, 4, 0, 4, 2, 0, 2, 3, 0, 3, 4, 2, 2, 1, 2, 3, 4, 2, 1, 3, 0, 1, 0, 3, 3, 2, 0, 1, 1, 4, 0, 3, 4, 0, 3, 1, 3, 1, 3, 3, 4, 1, 4, 3, 2, 1, 4, 4, 1, 0, 2, 0, 4]
+  - Initial Conflits: 0
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 5.66 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 2, 3, 0, 0, 1, 0, 1, 1, 0, 2, 1, 2, 0, 1, 3, 3, 0, 2, 3, 1, 1, 3, 0, 3, 1, 3, 1, 0, 0, 2, 2, 0, 3, 2, 4, 3, 0, 0, 3, 0, 0, 1, 1, 1, 1, 1, 2, 0, 1, 2, 3, 2, 1, 2, 2, 0, 2, 2, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 1, 2, 0, 4, 2, 0, 2, 4, 0, 4, 2, 0, 2, 3, 0, 3, 4, 2, 2, 1, 2, 3, 4, 2, 1, 3, 0, 1, 0, 3, 3, 2, 0, 1, 1, 4, 0, 3, 4, 0, 3, 1, 3, 1, 3, 3, 4, 1, 4, 3, 2, 1, 4, 4, 1, 0, 2, 0, 4]
+  - Initial Conflits: 0
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 5.66 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 475.0
+  - Custo Médio: 408.33
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 57.74
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 425.00
+  - Número de Vezes com Melhor Custo: 2
+  - Tempo Médio de Execução: 4.41 segundos
+  - Tempo Mediano de Execução: 4.21 segundos
+  - Desvio Padrão do Tempo: 0.50
+
+Melhor Solução para Random:
+  - Custo Inicial: 3370.0
+  - Número de Cores Iniciais: 40
+  - Lista de Cores Iniciais: [6, 58, 31, 1, 41, 59, 12, 6, 8, 43, 56, 48, 8, 14, 37, 12, 29, 8, 56, 25, 37, 57, 24, 13, 14, 30, 57, 53, 50, 14, 22, 11, 7, 47, 55, 32, 34, 29, 46, 33, 29, 14, 35, 49, 55, 47, 48, 17, 19, 31, 38, 31, 47, 7, 9, 15, 23, 55, 45, 26]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 2, 4, 1, 4, 3, 1, 0, 0, 1, 2, 2, 4, 4, 1, 1, 2, 1, 3, 2, 0, 2, 4, 4, 4, 0, 0, 3, 4, 1, 3, 3, 0, 2, 4, 4, 2, 0, 1, 4, 1, 1, 0, 2, 3, 0, 3, 3, 1, 0, 4, 2, 0, 0, 3, 1, 3, 3, 3, 2]
+  - Initial Conflits: 1
+  - Initial Desbalance: 27.0
+  - Initial Num Colors: 40
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 4.21 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3494.0
+  - Número de Cores Iniciais: 39
+  - Lista de Cores Iniciais: [46, 1, 3, 35, 27, 36, 59, 7, 13, 22, 23, 40, 44, 40, 4, 27, 20, 15, 4, 59, 16, 20, 5, 13, 12, 23, 24, 6, 38, 31, 8, 7, 11, 48, 22, 12, 22, 19, 32, 49, 2, 10, 49, 28, 55, 58, 59, 47, 41, 47, 20, 0, 50, 59, 40, 32, 55, 47, 4, 51]
+  - Custo Final: 475.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 4, 0, 1, 1, 0, 0, 1, 4, 1, 4, 3, 3, 3, 1, 3, 2, 0, 4, 2, 1, 2, 3, 1, 3, 2, 4, 3, 2, 0, 2, 4, 3, 4, 3, 1, 1, 2, 2, 3, 2, 0, 3, 2, 4, 0, 0, 4, 0, 2, 2, 1, 4, 3, 0, 1, 0, 0, 4, 1]
+  - Initial Conflits: 3
+  - Initial Desbalance: 27.0
+  - Initial Num Colors: 39
+  - End Conflits: 1
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 4.98 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0431 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0383 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale60_10_2.col
+Número de Vértices: 60, Número de Arestas: 148
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 300.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 350.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 43.30
+  - 1º Quartil do Custo: 337.50
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 3.44 segundos
+  - Tempo Mediano de Execução: 3.20 segundos
+  - Desvio Padrão do Tempo: 0.57
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 300.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [0, 2, 2, 0, 0, 0, 1, 2, 2, 1, 2, 1, 0, 0, 2, 3, 3, 0, 1, 1, 2, 2, 2, 2, 1, 0, 1, 0, 1, 2, 0, 1, 2, 2, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 2, 0, 3, 1, 3, 1, 2, 1, 1, 3, 3, 0, 0, 1, 2, 3]
+  - Custo Final: 300.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [0, 2, 2, 0, 0, 3, 1, 2, 2, 3, 2, 1, 0, 0, 2, 3, 3, 3, 1, 1, 2, 2, 2, 3, 1, 3, 1, 0, 1, 2, 0, 1, 2, 2, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 3, 0, 3, 1, 3, 1, 3, 1, 1, 3, 3, 0, 0, 3, 2, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 16.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 4
+  - Tempo de Execução: 3.03 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [0, 2, 2, 0, 0, 0, 1, 2, 2, 1, 2, 1, 0, 0, 2, 3, 3, 0, 1, 1, 2, 2, 2, 2, 1, 0, 1, 0, 1, 2, 0, 1, 2, 2, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 2, 0, 3, 1, 3, 1, 2, 1, 1, 3, 3, 0, 0, 1, 2, 3]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 2, 2, 1, 3, 4, 3, 4, 0, 0, 4, 4, 1, 0, 0, 2, 4, 1, 1, 2, 0, 2, 2, 3, 3, 1, 2, 4, 2, 2, 3, 0, 0, 2, 1, 3, 4, 3, 0, 0, 1, 3, 2, 1, 4, 1, 4, 3, 0, 4, 4, 4, 2, 3, 3, 1, 1, 0, 0, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 16.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.20 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 4.39 segundos
+  - Tempo Mediano de Execução: 4.07 segundos
+  - Desvio Padrão do Tempo: 1.41
+
+Melhor Solução para Random:
+  - Custo Inicial: 3282.0
+  - Número de Cores Iniciais: 35
+  - Lista de Cores Iniciais: [1, 25, 46, 20, 16, 31, 1, 0, 2, 23, 5, 27, 25, 53, 1, 42, 46, 34, 25, 8, 31, 3, 38, 19, 0, 12, 55, 41, 49, 53, 47, 30, 34, 28, 36, 39, 33, 44, 9, 55, 44, 33, 26, 2, 41, 34, 1, 5, 59, 30, 35, 52, 12, 57, 44, 25, 42, 12, 57, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 4, 0, 3, 2, 1, 0, 4, 4, 1, 3, 3, 0, 1, 0, 3, 1, 1, 0, 0, 4, 1, 1, 2, 2, 1, 3, 4, 1, 4, 2, 2, 2, 1, 0, 3, 3, 0, 1, 2, 0, 2, 1, 4, 4, 0, 4, 3, 4, 3, 2, 3, 3, 2, 4, 0, 0, 3, 2, 4]
+  - Initial Conflits: 4
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 35
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 5.93 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3282.0
+  - Número de Cores Iniciais: 35
+  - Lista de Cores Iniciais: [1, 25, 46, 20, 16, 31, 1, 0, 2, 23, 5, 27, 25, 53, 1, 42, 46, 34, 25, 8, 31, 3, 38, 19, 0, 12, 55, 41, 49, 53, 47, 30, 34, 28, 36, 39, 33, 44, 9, 55, 44, 33, 26, 2, 41, 34, 1, 5, 59, 30, 35, 52, 12, 57, 44, 25, 42, 12, 57, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 4, 0, 3, 2, 1, 0, 4, 4, 1, 3, 3, 0, 1, 0, 3, 1, 1, 0, 0, 4, 1, 1, 2, 2, 1, 3, 4, 1, 4, 2, 2, 2, 1, 0, 3, 3, 0, 1, 2, 0, 2, 1, 4, 4, 0, 4, 3, 4, 3, 2, 3, 3, 2, 4, 0, 0, 3, 2, 4]
+  - Initial Conflits: 4
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 35
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 5.93 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0298 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0381 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale60_10_3.col
+Número de Vértices: 60, Número de Arestas: 150
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 3.91 segundos
+  - Tempo Mediano de Execução: 3.87 segundos
+  - Desvio Padrão do Tempo: 0.65
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [1, 0, 3, 1, 2, 0, 2, 0, 2, 2, 0, 0, 1, 0, 4, 0, 0, 2, 3, 2, 0, 1, 2, 1, 0, 0, 0, 0, 1, 1, 3, 2, 2, 2, 0, 0, 0, 2, 1, 0, 2, 0, 1, 2, 1, 1, 1, 3, 1, 0, 0, 3, 3, 1, 2, 3, 2, 1, 3, 1]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 3, 1, 4, 0, 0, 3, 0, 2, 1, 0, 1, 4, 4, 2, 3, 3, 0, 0, 3, 2, 1, 0, 0, 2, 1, 0, 1, 4, 2, 3, 4, 2, 3, 2, 3, 3, 0, 4, 1, 4, 2, 2, 0, 1, 3, 1, 1, 1, 1, 4, 4, 4, 4, 3, 2, 0, 2, 3, 4]
+  - Initial Conflits: 0
+  - Initial Desbalance: 30.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.27 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [1, 0, 3, 1, 2, 0, 2, 0, 2, 2, 0, 0, 1, 0, 4, 0, 0, 2, 3, 2, 0, 1, 2, 1, 0, 0, 0, 0, 1, 1, 3, 2, 2, 2, 0, 0, 0, 2, 1, 0, 2, 0, 1, 2, 1, 1, 1, 3, 1, 0, 0, 3, 3, 1, 2, 3, 2, 1, 3, 1]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 3, 1, 4, 0, 0, 3, 0, 2, 1, 0, 1, 4, 4, 2, 3, 3, 0, 0, 3, 2, 1, 0, 0, 2, 1, 0, 1, 4, 2, 3, 4, 2, 3, 2, 3, 3, 0, 4, 1, 4, 2, 2, 0, 1, 3, 1, 1, 1, 1, 4, 4, 4, 4, 3, 2, 0, 2, 3, 4]
+  - Initial Conflits: 0
+  - Initial Desbalance: 30.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.27 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 4.05 segundos
+  - Tempo Mediano de Execução: 3.81 segundos
+  - Desvio Padrão do Tempo: 0.50
+
+Melhor Solução para Random:
+  - Custo Inicial: 3216.0
+  - Número de Cores Iniciais: 38
+  - Lista de Cores Iniciais: [32, 12, 7, 19, 47, 53, 12, 39, 56, 39, 6, 29, 7, 39, 37, 41, 29, 50, 51, 4, 39, 1, 27, 21, 17, 23, 51, 2, 5, 49, 50, 29, 0, 9, 57, 32, 52, 23, 13, 39, 19, 22, 3, 56, 58, 10, 52, 56, 33, 45, 19, 13, 2, 5, 36, 59, 13, 43, 6, 16]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 2, 0, 2, 1, 3, 0, 4, 1, 4, 3, 0, 2, 0, 2, 4, 1, 3, 0, 0, 3, 4, 4, 4, 1, 3, 4, 2, 1, 0, 2, 1, 1, 4, 3, 1, 2, 3, 0, 1, 4, 2, 1, 0, 0, 4, 2, 4, 1, 1, 0, 3, 2, 3, 4, 0, 2, 2, 3, 3]
+  - Initial Conflits: 1
+  - Initial Desbalance: 27.0
+  - Initial Num Colors: 38
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 4.62 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3216.0
+  - Número de Cores Iniciais: 38
+  - Lista de Cores Iniciais: [32, 12, 7, 19, 47, 53, 12, 39, 56, 39, 6, 29, 7, 39, 37, 41, 29, 50, 51, 4, 39, 1, 27, 21, 17, 23, 51, 2, 5, 49, 50, 29, 0, 9, 57, 32, 52, 23, 13, 39, 19, 22, 3, 56, 58, 10, 52, 56, 33, 45, 19, 13, 2, 5, 36, 59, 13, 43, 6, 16]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 2, 0, 2, 1, 3, 0, 4, 1, 4, 3, 0, 2, 0, 2, 4, 1, 3, 0, 0, 3, 4, 4, 4, 1, 3, 4, 2, 1, 0, 2, 1, 1, 4, 3, 1, 2, 3, 0, 1, 4, 2, 1, 0, 0, 4, 2, 4, 1, 1, 0, 3, 2, 3, 4, 0, 2, 2, 3, 3]
+  - Initial Conflits: 1
+  - Initial Desbalance: 27.0
+  - Initial Num Colors: 38
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 4.62 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0339 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0351 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale60_10_4.col
+Número de Vértices: 60, Número de Arestas: 173
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 450.0
+  - Custo Médio: 400.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 43.30
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 412.50
+  - Número de Vezes com Melhor Custo: 2
+  - Tempo Médio de Execução: 3.91 segundos
+  - Tempo Mediano de Execução: 3.61 segundos
+  - Desvio Padrão do Tempo: 0.68
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [3, 2, 1, 0, 0, 1, 1, 2, 1, 1, 0, 2, 1, 0, 0, 0, 0, 2, 1, 2, 1, 1, 0, 2, 1, 3, 1, 2, 0, 1, 0, 3, 4, 2, 4, 3, 3, 3, 0, 0, 2, 0, 1, 0, 2, 0, 2, 1, 4, 2, 3, 3, 0, 3, 1, 1, 2, 2, 1, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 2, 1, 0, 0, 1, 3, 2, 1, 3, 0, 2, 1, 0, 4, 4, 0, 2, 1, 4, 1, 1, 3, 2, 4, 3, 1, 4, 0, 4, 0, 3, 4, 4, 4, 3, 3, 3, 0, 0, 2, 0, 1, 0, 2, 0, 2, 1, 4, 2, 3, 3, 4, 3, 1, 1, 2, 2, 4, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.43 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 450.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [3, 2, 1, 0, 0, 1, 1, 2, 1, 1, 0, 2, 1, 0, 0, 0, 0, 2, 1, 2, 1, 1, 0, 2, 1, 3, 1, 2, 0, 1, 0, 3, 4, 2, 4, 3, 3, 3, 0, 0, 2, 0, 1, 0, 2, 0, 2, 1, 4, 2, 3, 3, 0, 3, 1, 1, 2, 2, 1, 2]
+  - Custo Final: 450.0
+  - Número de Cores Finais: 6
+  - Lista de Cores Finais: [5, 3, 5, 4, 3, 5, 3, 1, 1, 3, 3, 2, 4, 0, 0, 3, 0, 2, 1, 0, 1, 4, 2, 0, 4, 1, 0, 2, 0, 4, 5, 1, 3, 5, 1, 2, 4, 3, 5, 0, 3, 3, 2, 0, 4, 1, 5, 1, 2, 5, 4, 5, 2, 4, 4, 5, 1, 2, 2, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 6
+  - Tempo de Execução: 3.61 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 375.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 375.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 4.80 segundos
+  - Tempo Mediano de Execução: 5.54 segundos
+  - Desvio Padrão do Tempo: 1.38
+
+Melhor Solução para Random:
+  - Custo Inicial: 3180.0
+  - Número de Cores Iniciais: 36
+  - Lista de Cores Iniciais: [38, 44, 38, 14, 40, 11, 18, 10, 36, 56, 18, 23, 56, 8, 32, 56, 23, 17, 39, 43, 16, 30, 25, 53, 11, 32, 11, 16, 38, 35, 36, 42, 26, 19, 50, 11, 34, 13, 24, 14, 10, 36, 54, 43, 51, 2, 47, 5, 52, 19, 51, 20, 42, 54, 57, 18, 23, 23, 10, 41]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 3, 3, 2, 0, 1, 4, 0, 0, 1, 3, 2, 1, 2, 0, 1, 1, 4, 1, 1, 2, 1, 4, 3, 1, 2, 4, 3, 0, 1, 0, 4, 3, 3, 0, 4, 4, 3, 0, 2, 3, 2, 3, 2, 4, 2, 1, 3, 2, 0, 2, 2, 1, 4, 4, 0, 4, 0, 0, 3]
+  - Initial Conflits: 2
+  - Initial Desbalance: 28.0
+  - Initial Num Colors: 36
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.21 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3180.0
+  - Número de Cores Iniciais: 36
+  - Lista de Cores Iniciais: [38, 44, 38, 14, 40, 11, 18, 10, 36, 56, 18, 23, 56, 8, 32, 56, 23, 17, 39, 43, 16, 30, 25, 53, 11, 32, 11, 16, 38, 35, 36, 42, 26, 19, 50, 11, 34, 13, 24, 14, 10, 36, 54, 43, 51, 2, 47, 5, 52, 19, 51, 20, 42, 54, 57, 18, 23, 23, 10, 41]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 3, 3, 2, 0, 1, 4, 0, 0, 1, 3, 2, 1, 2, 0, 1, 1, 4, 1, 1, 2, 1, 4, 3, 1, 2, 4, 3, 0, 1, 0, 4, 3, 3, 0, 4, 4, 3, 0, 2, 3, 2, 3, 2, 4, 2, 1, 3, 2, 0, 2, 2, 1, 4, 4, 0, 4, 0, 0, 3]
+  - Initial Conflits: 2
+  - Initial Desbalance: 28.0
+  - Initial Num Colors: 36
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.21 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0339 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0417 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale60_10_5.col
+Número de Vértices: 60, Número de Arestas: 152
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 300.0
+  - Custo Máximo: 375.0
+  - Custo Médio: 345.00
+  - Custo Mediano: 360.00
+  - Desvio Padrão: 39.69
+  - 1º Quartil do Custo: 330.00
+  - 3º Quartil do Custo: 367.50
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 3.60 segundos
+  - Tempo Mediano de Execução: 3.53 segundos
+  - Desvio Padrão do Tempo: 0.54
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 300.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 0, 0, 1, 0, 2, 1, 3, 0, 2, 0, 0, 0, 0, 1, 3, 1, 2, 2, 1, 3, 3, 3, 1, 1, 2, 0, 1, 2, 3, 2, 1, 2, 1, 3, 1, 2, 3, 1, 1, 0, 0, 1, 1, 1, 0, 2, 3, 1, 1, 0, 2, 0, 2, 2, 2, 2, 3, 0, 2]
+  - Custo Final: 300.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [2, 0, 0, 1, 0, 2, 1, 3, 0, 2, 0, 0, 0, 0, 1, 3, 1, 2, 2, 3, 3, 3, 3, 1, 1, 2, 0, 1, 2, 3, 2, 1, 2, 1, 3, 1, 2, 3, 3, 1, 0, 0, 1, 1, 3, 0, 2, 3, 1, 1, 0, 3, 0, 3, 2, 2, 2, 3, 0, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 10.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 4
+  - Tempo de Execução: 4.16 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [2, 0, 0, 1, 0, 2, 1, 3, 0, 2, 0, 0, 0, 0, 1, 3, 1, 2, 2, 1, 3, 3, 3, 1, 1, 2, 0, 1, 2, 3, 2, 1, 2, 1, 3, 1, 2, 3, 1, 1, 0, 0, 1, 1, 1, 0, 2, 3, 1, 1, 0, 2, 0, 2, 2, 2, 2, 3, 0, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 0, 0, 0, 0, 2, 2, 4, 4, 3, 2, 0, 1, 0, 1, 2, 1, 3, 2, 4, 4, 2, 3, 3, 1, 4, 2, 2, 3, 0, 2, 1, 2, 1, 1, 3, 3, 3, 1, 1, 0, 4, 4, 4, 4, 0, 3, 1, 4, 1, 0, 3, 0, 3, 3, 1, 4, 4, 0, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 10.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.53 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 450.0
+  - Custo Médio: 400.00
+  - Custo Mediano: 375.00
+  - Desvio Padrão: 43.30
+  - 1º Quartil do Custo: 375.00
+  - 3º Quartil do Custo: 412.50
+  - Número de Vezes com Melhor Custo: 2
+  - Tempo Médio de Execução: 4.17 segundos
+  - Tempo Mediano de Execução: 3.91 segundos
+  - Desvio Padrão do Tempo: 1.61
+
+Melhor Solução para Random:
+  - Custo Inicial: 3539.0
+  - Número de Cores Iniciais: 38
+  - Lista de Cores Iniciais: [51, 38, 6, 7, 13, 17, 6, 9, 17, 52, 38, 3, 53, 7, 32, 56, 49, 7, 29, 35, 49, 37, 7, 7, 42, 41, 8, 10, 27, 20, 59, 2, 24, 26, 38, 3, 36, 42, 9, 49, 49, 9, 13, 29, 22, 51, 51, 19, 15, 50, 45, 28, 0, 7, 53, 57, 39, 16, 25, 16]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 0, 1, 2, 3, 1, 3, 0, 2, 1, 0, 1, 3, 4, 3, 3, 3, 0, 3, 2, 2, 0, 4, 4, 2, 1, 2, 0, 3, 4, 4, 4, 3, 4, 3, 4, 1, 2, 1, 4, 2, 2, 0, 0, 0, 2, 1, 3, 4, 1, 4, 3, 0, 1, 0, 1, 4, 0, 1, 2]
+  - Initial Conflits: 4
+  - Initial Desbalance: 29.0
+  - Initial Num Colors: 38
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 3.91 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 2895.0
+  - Número de Cores Iniciais: 34
+  - Lista de Cores Iniciais: [36, 24, 35, 33, 38, 7, 9, 36, 20, 40, 17, 32, 15, 17, 19, 52, 53, 49, 28, 17, 44, 13, 11, 22, 15, 1, 53, 36, 23, 52, 58, 41, 7, 17, 8, 4, 30, 57, 39, 0, 20, 17, 23, 44, 47, 19, 49, 56, 7, 11, 49, 13, 21, 1, 24, 53, 41, 38, 20, 58]
+  - Custo Final: 450.0
+  - Número de Cores Finais: 6
+  - Lista de Cores Finais: [5, 0, 4, 0, 4, 5, 2, 0, 0, 3, 0, 5, 4, 3, 2, 2, 2, 4, 0, 4, 3, 3, 2, 4, 3, 3, 1, 1, 4, 2, 1, 4, 4, 1, 3, 1, 5, 0, 1, 4, 1, 1, 5, 3, 0, 5, 5, 2, 3, 2, 5, 2, 5, 0, 5, 1, 0, 2, 1, 3]
+  - Initial Conflits: 1
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 34
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 6
+  - Tempo de Execução: 2.70 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0312 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0362 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale70_10_1.col
+Número de Vértices: 70, Número de Arestas: 209
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 475.0
+  - Custo Médio: 415.00
+  - Custo Mediano: 395.00
+  - Desvio Padrão: 52.92
+  - 1º Quartil do Custo: 385.00
+  - 3º Quartil do Custo: 435.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 8.01 segundos
+  - Tempo Mediano de Execução: 6.73 segundos
+  - Desvio Padrão do Tempo: 2.99
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 3, 0, 4, 2, 0, 2, 2, 2, 2, 3, 3, 0, 2, 0, 3, 3, 0, 0, 1, 0, 1, 0, 3, 0, 3, 0, 0, 1, 0, 2, 0, 1, 1, 0, 3, 1, 2, 3, 2, 3, 0, 1, 1, 1, 3, 3, 0, 2, 2, 0, 2, 1, 3, 1, 1, 1, 3, 1, 2, 2, 3, 2, 2, 1, 1, 2, 2, 2, 2]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 4, 2, 3, 2, 0, 4, 3, 0, 2, 1, 1, 0, 2, 0, 4, 3, 2, 0, 4, 2, 0, 0, 3, 1, 2, 4, 1, 3, 1, 2, 2, 1, 3, 0, 4, 0, 4, 3, 0, 2, 1, 0, 1, 1, 3, 3, 2, 4, 4, 4, 2, 1, 3, 1, 1, 3, 3, 0, 4, 4, 3, 0, 4, 2, 1, 2, 0, 3, 4]
+  - Initial Conflits: 0
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 11.43 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 475.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 3, 0, 4, 2, 0, 2, 2, 2, 2, 3, 3, 0, 2, 0, 3, 3, 0, 0, 1, 0, 1, 0, 3, 0, 3, 0, 0, 1, 0, 2, 0, 1, 1, 0, 3, 1, 2, 3, 2, 3, 0, 1, 1, 1, 3, 3, 0, 2, 2, 0, 2, 1, 3, 1, 1, 1, 3, 1, 2, 2, 3, 2, 2, 1, 1, 2, 2, 2, 2]
+  - Custo Final: 475.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 3, 0, 4, 2, 0, 2, 4, 4, 2, 3, 3, 4, 2, 0, 3, 3, 0, 0, 1, 0, 1, 0, 3, 0, 3, 0, 0, 1, 0, 2, 0, 1, 1, 0, 3, 1, 2, 3, 2, 3, 0, 1, 1, 1, 3, 3, 0, 2, 2, 4, 2, 1, 3, 1, 1, 1, 3, 1, 2, 2, 3, 4, 4, 1, 1, 2, 2, 4, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 10.0
+  - End Num Colors: 5
+  - Tempo de Execução: 6.73 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 525.0
+  - Custo Médio: 458.33
+  - Custo Mediano: 475.00
+  - Desvio Padrão: 76.38
+  - 1º Quartil do Custo: 425.00
+  - 3º Quartil do Custo: 500.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 10.17 segundos
+  - Tempo Mediano de Execução: 9.14 segundos
+  - Desvio Padrão do Tempo: 3.95
+
+Melhor Solução para Random:
+  - Custo Inicial: 3703.0
+  - Número de Cores Iniciais: 42
+  - Lista de Cores Iniciais: [62, 19, 30, 53, 41, 31, 41, 18, 37, 55, 54, 32, 22, 22, 21, 3, 68, 55, 13, 35, 61, 67, 38, 59, 66, 12, 51, 11, 42, 7, 49, 18, 48, 27, 49, 34, 49, 61, 38, 17, 29, 48, 53, 49, 31, 60, 35, 14, 5, 42, 44, 24, 17, 69, 27, 62, 24, 35, 68, 54, 61, 28, 9, 67, 36, 12, 21, 66, 9, 62]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [4, 4, 0, 1, 2, 1, 4, 1, 4, 2, 2, 3, 0, 3, 0, 2, 1, 4, 2, 1, 1, 1, 4, 4, 3, 2, 1, 1, 0, 3, 0, 0, 3, 3, 1, 4, 0, 3, 0, 2, 3, 1, 2, 3, 3, 4, 3, 0, 1, 4, 4, 0, 2, 1, 2, 3, 3, 0, 2, 0, 4, 2, 0, 4, 2, 2, 0, 1, 4, 3]
+  - Initial Conflits: 3
+  - Initial Desbalance: 25.0
+  - Initial Num Colors: 42
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 14.53 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 4021.0
+  - Número de Cores Iniciais: 46
+  - Lista de Cores Iniciais: [48, 4, 0, 32, 6, 22, 28, 17, 9, 1, 24, 68, 61, 36, 58, 43, 7, 34, 64, 56, 69, 68, 28, 65, 44, 58, 2, 28, 1, 16, 35, 19, 11, 39, 34, 38, 3, 2, 25, 55, 57, 62, 38, 25, 59, 6, 24, 24, 59, 20, 46, 21, 45, 60, 2, 36, 56, 46, 30, 66, 18, 19, 3, 47, 41, 48, 62, 9, 9, 64]
+  - Custo Final: 525.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [2, 4, 2, 2, 2, 5, 4, 3, 4, 4, 1, 3, 3, 6, 6, 5, 5, 0, 0, 3, 4, 0, 2, 1, 5, 3, 2, 4, 3, 2, 3, 1, 6, 6, 1, 4, 1, 1, 3, 1, 1, 0, 3, 6, 5, 5, 2, 1, 4, 3, 4, 6, 5, 1, 0, 6, 5, 0, 0, 6, 6, 0, 0, 2, 5, 0, 5, 4, 6, 2]
+  - Initial Conflits: 3
+  - Initial Desbalance: 27.0
+  - Initial Num Colors: 46
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 7
+  - Tempo de Execução: 6.83 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0696 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0883 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale70_10_2.col
+Número de Vértices: 70, Número de Arestas: 205
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 395.0
+  - Custo Máximo: 475.0
+  - Custo Médio: 435.00
+  - Custo Mediano: 435.00
+  - Desvio Padrão: 40.00
+  - 1º Quartil do Custo: 415.00
+  - 3º Quartil do Custo: 455.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 5.63 segundos
+  - Tempo Mediano de Execução: 5.59 segundos
+  - Desvio Padrão do Tempo: 0.40
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 395.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [3, 1, 1, 3, 3, 1, 3, 0, 3, 2, 0, 2, 1, 2, 0, 1, 1, 0, 1, 3, 0, 0, 1, 2, 0, 0, 0, 0, 1, 1, 3, 2, 1, 3, 1, 0, 2, 2, 1, 2, 2, 0, 1, 2, 2, 2, 0, 1, 2, 1, 4, 3, 1, 3, 4, 4, 0, 3, 1, 1, 1, 3, 1, 2, 0, 2, 3, 0, 1, 1]
+  - Custo Final: 395.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 4, 1, 3, 3, 1, 4, 0, 3, 2, 0, 2, 1, 1, 3, 2, 1, 0, 4, 4, 3, 0, 4, 2, 0, 0, 0, 0, 3, 1, 3, 2, 1, 3, 1, 0, 2, 2, 4, 2, 2, 0, 1, 2, 2, 2, 0, 1, 2, 1, 4, 3, 4, 3, 4, 4, 0, 3, 1, 4, 1, 3, 4, 2, 0, 2, 3, 0, 1, 4]
+  - Initial Conflits: 0
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 5
+  - Tempo de Execução: 5.25 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 475.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [3, 1, 1, 3, 3, 1, 3, 0, 3, 2, 0, 2, 1, 2, 0, 1, 1, 0, 1, 3, 0, 0, 1, 2, 0, 0, 0, 0, 1, 1, 3, 2, 1, 3, 1, 0, 2, 2, 1, 2, 2, 0, 1, 2, 2, 2, 0, 1, 2, 1, 4, 3, 1, 3, 4, 4, 0, 3, 1, 1, 1, 3, 1, 2, 0, 2, 3, 0, 1, 1]
+  - Custo Final: 475.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 1, 4, 3, 3, 1, 3, 0, 3, 2, 0, 2, 4, 2, 0, 4, 1, 0, 1, 3, 0, 0, 4, 2, 0, 0, 0, 0, 1, 4, 3, 2, 1, 3, 1, 0, 2, 2, 1, 2, 2, 0, 1, 2, 2, 2, 0, 1, 2, 2, 4, 1, 1, 3, 4, 4, 0, 3, 1, 4, 1, 3, 4, 2, 0, 2, 3, 0, 4, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 24.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 10.0
+  - End Num Colors: 5
+  - Tempo de Execução: 5.59 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 475.0
+  - Custo Máximo: 525.0
+  - Custo Médio: 491.67
+  - Custo Mediano: 475.00
+  - Desvio Padrão: 28.87
+  - 1º Quartil do Custo: 475.00
+  - 3º Quartil do Custo: 500.00
+  - Número de Vezes com Melhor Custo: 2
+  - Tempo Médio de Execução: 8.97 segundos
+  - Tempo Mediano de Execução: 7.27 segundos
+  - Desvio Padrão do Tempo: 4.04
+
+Melhor Solução para Random:
+  - Custo Inicial: 3958.0
+  - Número de Cores Iniciais: 49
+  - Lista de Cores Iniciais: [58, 2, 31, 6, 69, 63, 65, 1, 13, 45, 16, 7, 17, 45, 14, 31, 37, 14, 32, 8, 49, 27, 9, 28, 22, 7, 8, 51, 35, 55, 67, 6, 18, 38, 48, 62, 65, 69, 24, 45, 4, 30, 2, 24, 69, 67, 31, 11, 12, 68, 21, 29, 3, 32, 14, 15, 15, 43, 25, 34, 19, 37, 9, 23, 41, 34, 20, 60, 56, 14]
+  - Custo Final: 475.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 4, 0, 4, 2, 0, 3, 4, 4, 2, 1, 1, 0, 3, 3, 2, 2, 1, 4, 3, 2, 1, 3, 3, 1, 1, 1, 2, 0, 4, 3, 0, 1, 4, 0, 2, 0, 3, 0, 4, 2, 2, 0, 4, 4, 4, 1, 1, 2, 0, 2, 4, 0, 0, 1, 4, 1, 2, 3, 3, 3, 3, 4, 0, 3, 2, 3, 1, 0, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 28.0
+  - Initial Num Colors: 49
+  - End Conflits: 1
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 7.27 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3614.0
+  - Número de Cores Iniciais: 43
+  - Lista de Cores Iniciais: [18, 12, 31, 0, 31, 19, 55, 39, 39, 43, 60, 59, 13, 42, 54, 20, 39, 5, 64, 16, 68, 0, 38, 33, 48, 63, 39, 12, 2, 18, 61, 19, 33, 24, 33, 56, 59, 11, 28, 26, 5, 16, 60, 21, 1, 29, 17, 62, 47, 51, 0, 11, 15, 8, 32, 36, 58, 48, 29, 47, 57, 33, 26, 63, 58, 19, 59, 69, 15, 17]
+  - Custo Final: 525.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [2, 1, 1, 6, 6, 3, 6, 2, 4, 1, 5, 0, 4, 0, 1, 6, 6, 0, 4, 6, 3, 0, 6, 5, 2, 2, 5, 0, 1, 1, 3, 0, 5, 1, 0, 2, 4, 3, 3, 2, 1, 3, 5, 4, 5, 4, 1, 4, 4, 2, 1, 0, 5, 2, 6, 6, 4, 0, 5, 3, 3, 3, 2, 2, 0, 3, 4, 5, 6, 5]
+  - Initial Conflits: 1
+  - Initial Desbalance: 29.0
+  - Initial Num Colors: 43
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 7
+  - Tempo de Execução: 6.05 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0488 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0778 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale70_10_3.col
+Número de Vértices: 70, Número de Arestas: 223
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 475.0
+  - Custo Médio: 435.00
+  - Custo Mediano: 455.00
+  - Desvio Padrão: 52.92
+  - 1º Quartil do Custo: 415.00
+  - 3º Quartil do Custo: 465.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 6.59 segundos
+  - Tempo Mediano de Execução: 6.48 segundos
+  - Desvio Padrão do Tempo: 0.38
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [2, 2, 2, 3, 4, 3, 3, 0, 0, 4, 0, 2, 1, 1, 2, 1, 2, 1, 2, 3, 0, 1, 2, 1, 0, 4, 4, 3, 2, 1, 0, 3, 0, 0, 1, 1, 1, 2, 3, 0, 2, 2, 1, 1, 3, 2, 2, 2, 3, 1, 1, 3, 0, 0, 2, 3, 4, 0, 2, 0, 1, 0, 3, 1, 1, 3, 0, 2, 0, 3]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 4, 2, 3, 4, 3, 0, 0, 4, 4, 0, 2, 1, 1, 2, 4, 2, 1, 2, 1, 0, 4, 2, 1, 0, 4, 4, 3, 4, 1, 0, 3, 0, 3, 1, 3, 4, 2, 3, 0, 4, 2, 1, 1, 3, 2, 2, 2, 4, 1, 1, 1, 0, 0, 2, 3, 4, 0, 3, 0, 1, 0, 3, 1, 3, 3, 0, 2, 4, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 18.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 7.02 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 475.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [2, 2, 2, 3, 4, 3, 3, 0, 0, 4, 0, 2, 1, 1, 2, 1, 2, 1, 2, 3, 0, 1, 2, 1, 0, 4, 4, 3, 2, 1, 0, 3, 0, 0, 1, 1, 1, 2, 3, 0, 2, 2, 1, 1, 3, 2, 2, 2, 3, 1, 1, 3, 0, 0, 2, 3, 4, 0, 2, 0, 1, 0, 3, 1, 1, 3, 0, 2, 0, 3]
+  - Custo Final: 475.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 2, 2, 3, 4, 3, 3, 0, 0, 4, 0, 2, 1, 1, 2, 1, 2, 1, 2, 3, 0, 1, 2, 1, 0, 4, 4, 3, 4, 1, 0, 3, 0, 0, 1, 1, 1, 2, 3, 0, 2, 2, 1, 1, 3, 2, 2, 2, 3, 4, 1, 3, 0, 0, 2, 3, 4, 0, 4, 0, 1, 0, 3, 1, 1, 3, 0, 4, 0, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 18.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 10.0
+  - End Num Colors: 5
+  - Tempo de Execução: 6.48 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 525.0
+  - Custo Médio: 475.00
+  - Custo Mediano: 525.00
+  - Desvio Padrão: 86.60
+  - 1º Quartil do Custo: 450.00
+  - 3º Quartil do Custo: 525.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 10.33 segundos
+  - Tempo Mediano de Execução: 11.04 segundos
+  - Desvio Padrão do Tempo: 1.77
+
+Melhor Solução para Random:
+  - Custo Inicial: 3455.0
+  - Número de Cores Iniciais: 40
+  - Lista de Cores Iniciais: [30, 3, 27, 2, 36, 27, 9, 60, 22, 17, 64, 2, 66, 41, 3, 45, 5, 56, 13, 18, 47, 14, 22, 20, 59, 19, 54, 62, 13, 19, 34, 62, 47, 65, 27, 57, 4, 60, 22, 54, 23, 61, 33, 44, 44, 1, 43, 18, 65, 30, 59, 0, 5, 33, 22, 68, 62, 25, 1, 45, 22, 27, 61, 61, 23, 34, 40, 7, 57, 29]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 0, 4, 2, 3, 0, 1, 4, 0, 2, 1, 2, 4, 4, 0, 2, 0, 2, 1, 4, 2, 3, 0, 0, 2, 1, 1, 0, 1, 1, 1, 4, 1, 1, 3, 4, 3, 0, 4, 3, 0, 0, 3, 3, 4, 3, 0, 4, 2, 2, 2, 3, 1, 2, 0, 4, 3, 1, 4, 3, 3, 4, 2, 3, 0, 2, 1, 4, 3, 1]
+  - Initial Conflits: 2
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 40
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 11.63 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 3807.0
+  - Número de Cores Iniciais: 44
+  - Lista de Cores Iniciais: [53, 31, 39, 28, 12, 9, 33, 4, 44, 1, 16, 17, 60, 57, 53, 26, 48, 47, 12, 2, 24, 43, 19, 33, 44, 44, 9, 50, 15, 48, 1, 13, 20, 53, 49, 50, 54, 26, 68, 3, 7, 56, 38, 10, 57, 24, 13, 32, 21, 46, 63, 55, 37, 18, 19, 53, 48, 15, 61, 44, 60, 64, 31, 64, 63, 9, 26, 41, 35, 48]
+  - Custo Final: 525.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [3, 5, 1, 3, 2, 4, 1, 1, 0, 2, 4, 2, 6, 0, 1, 0, 0, 6, 1, 3, 5, 2, 2, 2, 0, 4, 4, 5, 0, 6, 2, 3, 0, 6, 3, 6, 6, 3, 0, 4, 4, 5, 6, 1, 5, 2, 2, 6, 5, 5, 3, 2, 3, 5, 4, 5, 4, 1, 3, 5, 1, 4, 6, 4, 0, 0, 3, 1, 1, 6]
+  - Initial Conflits: 2
+  - Initial Desbalance: 31.0
+  - Initial Num Colors: 44
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 7
+  - Tempo de Execução: 11.04 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0572 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0896 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale70_10_4.col
+Número de Vértices: 70, Número de Arestas: 224
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 375.0
+  - Custo Máximo: 525.0
+  - Custo Médio: 438.33
+  - Custo Mediano: 415.00
+  - Desvio Padrão: 77.67
+  - 1º Quartil do Custo: 395.00
+  - 3º Quartil do Custo: 470.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 6.87 segundos
+  - Tempo Mediano de Execução: 6.58 segundos
+  - Desvio Padrão do Tempo: 0.77
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 375.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [1, 0, 3, 2, 3, 2, 1, 1, 4, 0, 0, 2, 3, 2, 0, 2, 3, 1, 2, 1, 2, 4, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 2, 0, 4, 1, 1, 3, 0, 4, 0, 2, 3, 0, 2, 1, 0, 0, 2, 0, 1, 1, 1, 2, 2, 2, 3, 0, 3, 3, 1, 0, 0, 2, 0, 3, 3, 1]
+  - Custo Final: 375.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [1, 0, 4, 2, 3, 2, 1, 4, 4, 0, 0, 2, 4, 2, 0, 2, 1, 4, 2, 1, 2, 4, 1, 4, 1, 1, 0, 0, 0, 3, 4, 4, 1, 0, 2, 0, 4, 1, 1, 3, 0, 4, 0, 3, 3, 0, 2, 1, 3, 0, 2, 3, 1, 4, 1, 2, 2, 2, 3, 3, 3, 3, 1, 4, 0, 2, 3, 3, 3, 4]
+  - Initial Conflits: 0
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 5
+  - Tempo de Execução: 6.58 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 525.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [1, 0, 3, 2, 3, 2, 1, 1, 4, 0, 0, 2, 3, 2, 0, 2, 3, 1, 2, 1, 2, 4, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 2, 0, 4, 1, 1, 3, 0, 4, 0, 2, 3, 0, 2, 1, 0, 0, 2, 0, 1, 1, 1, 2, 2, 2, 3, 0, 3, 3, 1, 0, 0, 2, 0, 3, 3, 1]
+  - Custo Final: 525.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [0, 0, 6, 5, 6, 2, 1, 1, 2, 3, 0, 4, 3, 3, 0, 2, 4, 2, 4, 2, 6, 4, 1, 2, 5, 5, 1, 6, 0, 5, 1, 6, 4, 5, 2, 0, 2, 2, 0, 1, 0, 5, 3, 6, 0, 5, 6, 3, 6, 1, 3, 4, 5, 4, 6, 3, 4, 3, 1, 4, 1, 5, 2, 0, 6, 4, 3, 3, 5, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 26.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 7
+  - Tempo de Execução: 7.75 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 525.0
+  - Custo Máximo: 525.0
+  - Custo Médio: 525.00
+  - Custo Mediano: 525.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 525.00
+  - 3º Quartil do Custo: 525.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 9.30 segundos
+  - Tempo Mediano de Execução: 10.26 segundos
+  - Desvio Padrão do Tempo: 1.67
+
+Melhor Solução para Random:
+  - Custo Inicial: 4309.0
+  - Número de Cores Iniciais: 47
+  - Lista de Cores Iniciais: [15, 66, 2, 43, 2, 35, 20, 25, 63, 1, 67, 53, 44, 69, 8, 7, 36, 12, 65, 5, 8, 27, 24, 51, 11, 36, 15, 64, 24, 41, 35, 44, 29, 47, 44, 59, 69, 6, 43, 31, 56, 56, 62, 25, 2, 52, 62, 44, 54, 10, 21, 13, 22, 33, 11, 5, 23, 55, 16, 57, 48, 0, 57, 3, 41, 2, 38, 22, 57, 16]
+  - Custo Final: 525.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [0, 1, 4, 5, 6, 4, 1, 6, 6, 3, 0, 5, 0, 5, 2, 0, 0, 4, 1, 6, 5, 0, 1, 3, 5, 3, 6, 2, 2, 6, 3, 4, 3, 3, 3, 1, 4, 1, 5, 2, 4, 4, 6, 3, 6, 1, 0, 0, 2, 5, 5, 2, 1, 0, 3, 4, 0, 2, 1, 2, 6, 1, 3, 5, 4, 5, 2, 2, 6, 4]
+  - Initial Conflits: 5
+  - Initial Desbalance: 28.0
+  - Initial Num Colors: 47
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 7
+  - Tempo de Execução: 7.38 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 4309.0
+  - Número de Cores Iniciais: 47
+  - Lista de Cores Iniciais: [15, 66, 2, 43, 2, 35, 20, 25, 63, 1, 67, 53, 44, 69, 8, 7, 36, 12, 65, 5, 8, 27, 24, 51, 11, 36, 15, 64, 24, 41, 35, 44, 29, 47, 44, 59, 69, 6, 43, 31, 56, 56, 62, 25, 2, 52, 62, 44, 54, 10, 21, 13, 22, 33, 11, 5, 23, 55, 16, 57, 48, 0, 57, 3, 41, 2, 38, 22, 57, 16]
+  - Custo Final: 525.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [0, 1, 4, 5, 6, 4, 1, 6, 6, 3, 0, 5, 0, 5, 2, 0, 0, 4, 1, 6, 5, 0, 1, 3, 5, 3, 6, 2, 2, 6, 3, 4, 3, 3, 3, 1, 4, 1, 5, 2, 4, 4, 6, 3, 6, 1, 0, 0, 2, 5, 5, 2, 1, 0, 3, 4, 0, 2, 1, 2, 6, 1, 3, 5, 4, 5, 2, 2, 6, 4]
+  - Initial Conflits: 5
+  - Initial Desbalance: 28.0
+  - Initial Num Colors: 47
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 7
+  - Tempo de Execução: 7.38 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0597 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0808 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: ale70_10_5.col
+Número de Vértices: 70, Número de Arestas: 223
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 475.0
+  - Custo Máximo: 495.0
+  - Custo Médio: 488.33
+  - Custo Mediano: 495.00
+  - Desvio Padrão: 11.55
+  - 1º Quartil do Custo: 485.00
+  - 3º Quartil do Custo: 495.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 6.56 segundos
+  - Tempo Mediano de Execução: 6.52 segundos
+  - Desvio Padrão do Tempo: 0.20
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 475.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [3, 1, 1, 2, 0, 0, 1, 2, 2, 0, 3, 1, 2, 2, 1, 1, 0, 1, 2, 1, 0, 2, 1, 0, 0, 2, 2, 2, 0, 1, 3, 0, 1, 2, 3, 3, 1, 1, 3, 3, 1, 0, 2, 3, 0, 3, 2, 0, 1, 3, 4, 1, 3, 1, 3, 0, 4, 2, 2, 2, 4, 1, 3, 3, 1, 1, 2, 0, 0, 0]
+  - Custo Final: 475.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 1, 1, 2, 0, 0, 1, 2, 4, 0, 3, 1, 2, 2, 4, 1, 0, 1, 2, 1, 0, 2, 1, 0, 0, 2, 2, 2, 0, 1, 3, 0, 4, 2, 3, 3, 1, 4, 3, 3, 1, 0, 2, 3, 0, 3, 2, 0, 1, 3, 4, 1, 3, 4, 3, 0, 4, 2, 2, 2, 4, 4, 3, 3, 1, 1, 2, 0, 0, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 22.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 10.0
+  - End Num Colors: 5
+  - Tempo de Execução: 6.39 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 495.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [3, 1, 1, 2, 0, 0, 1, 2, 2, 0, 3, 1, 2, 2, 1, 1, 0, 1, 2, 1, 0, 2, 1, 0, 0, 2, 2, 2, 0, 1, 3, 0, 1, 2, 3, 3, 1, 1, 3, 3, 1, 0, 2, 3, 0, 3, 2, 0, 1, 3, 4, 1, 3, 1, 3, 0, 4, 2, 2, 2, 4, 1, 3, 3, 1, 1, 2, 0, 0, 0]
+  - Custo Final: 495.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 1, 1, 2, 0, 0, 1, 2, 2, 0, 3, 1, 2, 2, 4, 1, 0, 1, 2, 4, 0, 2, 1, 0, 0, 2, 2, 2, 0, 1, 3, 0, 1, 2, 3, 3, 1, 1, 3, 3, 1, 0, 2, 3, 0, 3, 2, 0, 1, 3, 4, 4, 3, 4, 3, 0, 4, 2, 2, 2, 4, 1, 3, 3, 1, 1, 4, 0, 0, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 22.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 12.0
+  - End Num Colors: 5
+  - Tempo de Execução: 6.77 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 477.0
+  - Custo Máximo: 525.0
+  - Custo Médio: 509.00
+  - Custo Mediano: 525.00
+  - Desvio Padrão: 27.71
+  - 1º Quartil do Custo: 501.00
+  - 3º Quartil do Custo: 525.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 7.50 segundos
+  - Tempo Mediano de Execução: 7.83 segundos
+  - Desvio Padrão do Tempo: 0.72
+
+Melhor Solução para Random:
+  - Custo Inicial: 3942.0
+  - Número de Cores Iniciais: 45
+  - Lista de Cores Iniciais: [49, 59, 64, 12, 9, 7, 20, 58, 35, 20, 67, 12, 69, 6, 35, 64, 50, 18, 16, 54, 66, 56, 0, 23, 38, 59, 13, 52, 55, 31, 2, 68, 56, 40, 17, 50, 66, 67, 41, 34, 69, 33, 65, 59, 25, 23, 67, 38, 50, 0, 3, 5, 42, 52, 4, 18, 5, 42, 11, 5, 14, 60, 26, 7, 49, 58, 44, 25, 15, 24]
+  - Custo Final: 477.0
+  - Número de Cores Finais: 6
+  - Lista de Cores Finais: [0, 0, 0, 0, 2, 3, 0, 3, 3, 2, 5, 4, 4, 4, 2, 4, 1, 5, 4, 3, 2, 1, 1, 3, 1, 3, 2, 4, 2, 5, 0, 1, 4, 3, 1, 5, 5, 1, 0, 0, 0, 5, 3, 2, 2, 3, 1, 2, 1, 5, 2, 2, 5, 0, 3, 1, 1, 4, 1, 4, 4, 4, 5, 2, 0, 5, 3, 0, 5, 4]
+  - Initial Conflits: 3
+  - Initial Desbalance: 27.0
+  - Initial Num Colors: 45
+  - End Conflits: 0
+  - End Desbalance: 3.0
+  - End Num Colors: 6
+  - Tempo de Execução: 8.00 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 4253.0
+  - Número de Cores Iniciais: 46
+  - Lista de Cores Iniciais: [47, 10, 19, 31, 21, 23, 36, 32, 41, 32, 20, 6, 39, 62, 1, 63, 34, 60, 6, 46, 33, 47, 14, 17, 21, 31, 14, 22, 23, 11, 33, 54, 31, 48, 25, 15, 16, 40, 48, 38, 0, 36, 41, 29, 67, 21, 26, 42, 35, 23, 51, 67, 45, 48, 14, 62, 2, 57, 37, 45, 21, 26, 61, 39, 68, 41, 60, 7, 12, 64]
+  - Custo Final: 525.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [5, 1, 3, 1, 2, 4, 4, 3, 6, 5, 1, 4, 4, 1, 0, 0, 0, 0, 1, 4, 3, 2, 5, 4, 5, 1, 2, 6, 4, 2, 1, 6, 3, 3, 6, 2, 6, 6, 6, 4, 2, 0, 2, 2, 2, 6, 4, 0, 0, 0, 3, 5, 3, 0, 3, 1, 5, 3, 1, 2, 5, 4, 6, 5, 6, 5, 1, 5, 0, 3]
+  - Initial Conflits: 5
+  - Initial Desbalance: 30.0
+  - Initial Num Colors: 46
+  - End Conflits: 0
+  - End Desbalance: 0.0
+  - End Num Colors: 7
+  - Tempo de Execução: 7.83 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0569 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0651 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: K5_2.txt
+Número de Vértices: 10, Número de Arestas: 15
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 238.0
+  - Custo Máximo: 238.0
+  - Custo Médio: 238.00
+  - Custo Mediano: 238.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 238.00
+  - 3º Quartil do Custo: 238.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.11 segundos
+  - Tempo Mediano de Execução: 0.10 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 238.0
+  - Número de Cores Iniciais: 3
+  - Lista de Cores Iniciais: [0, 0, 0, 0, 1, 1, 1, 2, 2, 2]
+  - Custo Final: 238.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [0, 0, 0, 0, 1, 1, 1, 2, 2, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 1.0
+  - Initial Num Colors: 3
+  - End Conflits: 0
+  - End Desbalance: 1.0
+  - End Num Colors: 3
+  - Tempo de Execução: 0.10 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 238.0
+  - Número de Cores Iniciais: 3
+  - Lista de Cores Iniciais: [0, 0, 0, 0, 1, 1, 1, 2, 2, 2]
+  - Custo Final: 238.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [0, 0, 0, 0, 1, 1, 1, 2, 2, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 1.0
+  - Initial Num Colors: 3
+  - End Conflits: 0
+  - End Desbalance: 1.0
+  - End Num Colors: 3
+  - Tempo de Execução: 0.10 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 238.0
+  - Custo Máximo: 238.0
+  - Custo Médio: 238.00
+  - Custo Mediano: 238.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 238.00
+  - 3º Quartil do Custo: 238.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.12 segundos
+  - Tempo Mediano de Execução: 0.11 segundos
+  - Desvio Padrão do Tempo: 0.03
+
+Melhor Solução para Random:
+  - Custo Inicial: 577.0
+  - Número de Cores Iniciais: 6
+  - Lista de Cores Iniciais: [1, 6, 1, 3, 2, 4, 4, 3, 2, 8]
+  - Custo Final: 238.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [2, 2, 2, 2, 1, 1, 1, 0, 0, 0]
+  - Initial Conflits: 1
+  - Initial Desbalance: 3.0
+  - Initial Num Colors: 6
+  - End Conflits: 0
+  - End Desbalance: 1.0
+  - End Num Colors: 3
+  - Tempo de Execução: 0.15 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 577.0
+  - Número de Cores Iniciais: 6
+  - Lista de Cores Iniciais: [1, 6, 1, 3, 2, 4, 4, 3, 2, 8]
+  - Custo Final: 238.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [2, 2, 2, 2, 1, 1, 1, 0, 0, 0]
+  - Initial Conflits: 1
+  - Initial Desbalance: 3.0
+  - Initial Num Colors: 6
+  - End Conflits: 0
+  - End Desbalance: 1.0
+  - End Num Colors: 3
+  - Tempo de Execução: 0.15 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0009 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0010 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: K7_2.txt
+Número de Vértices: 21, Número de Arestas: 105
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 407.0
+  - Custo Máximo: 407.0
+  - Custo Médio: 407.00
+  - Custo Mediano: 407.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 407.00
+  - 3º Quartil do Custo: 407.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.72 segundos
+  - Tempo Mediano de Execução: 0.71 segundos
+  - Desvio Padrão do Tempo: 0.13
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 407.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4]
+  - Custo Final: 407.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 2, 4, 4, 4, 4, 2, 3, 3, 3, 1, 2, 2, 2, 1, 0, 0, 1, 0, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 5.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 3.0
+  - End Num Colors: 5
+  - Tempo de Execução: 0.86 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 407.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4]
+  - Custo Final: 407.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [3, 2, 4, 4, 4, 4, 2, 3, 3, 3, 1, 2, 2, 2, 1, 0, 0, 1, 0, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 5.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 3.0
+  - End Num Colors: 5
+  - Tempo de Execução: 0.86 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 407.0
+  - Custo Máximo: 407.0
+  - Custo Médio: 407.00
+  - Custo Mediano: 407.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 407.00
+  - 3º Quartil do Custo: 407.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 1.03 segundos
+  - Tempo Mediano de Execução: 1.01 segundos
+  - Desvio Padrão do Tempo: 0.06
+
+Melhor Solução para Random:
+  - Custo Inicial: 1605.0
+  - Número de Cores Iniciais: 15
+  - Lista de Cores Iniciais: [11, 15, 6, 18, 12, 4, 8, 16, 11, 14, 19, 4, 13, 18, 12, 3, 2, 3, 9, 12, 0]
+  - Custo Final: 407.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 3, 2, 2, 2, 2, 4, 1, 4, 4, 4, 1, 3, 3, 3, 1, 1, 1, 0, 0, 0]
+  - Initial Conflits: 4
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 15
+  - End Conflits: 0
+  - End Desbalance: 3.0
+  - End Num Colors: 5
+  - Tempo de Execução: 1.10 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 1605.0
+  - Número de Cores Iniciais: 15
+  - Lista de Cores Iniciais: [11, 15, 6, 18, 12, 4, 8, 16, 11, 14, 19, 4, 13, 18, 12, 3, 2, 3, 9, 12, 0]
+  - Custo Final: 407.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 3, 2, 2, 2, 2, 4, 1, 4, 4, 4, 1, 3, 3, 3, 1, 1, 1, 0, 0, 0]
+  - Initial Conflits: 4
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 15
+  - End Conflits: 0
+  - End Desbalance: 3.0
+  - End Num Colors: 5
+  - Tempo de Execução: 1.10 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0063 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0090 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: K7_3.txt
+Número de Vértices: 35, Número de Arestas: 70
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 238.0
+  - Custo Máximo: 292.0
+  - Custo Médio: 262.67
+  - Custo Mediano: 258.00
+  - Desvio Padrão: 27.30
+  - 1º Quartil do Custo: 248.00
+  - 3º Quartil do Custo: 275.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 0.82 segundos
+  - Tempo Mediano de Execução: 0.69 segundos
+  - Desvio Padrão do Tempo: 0.22
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 238.0
+  - Número de Cores Iniciais: 3
+  - Lista de Cores Iniciais: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  - Custo Final: 238.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 0, 2, 2, 2, 2, 2, 2, 2, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 7.0
+  - Initial Num Colors: 3
+  - End Conflits: 0
+  - End Desbalance: 1.0
+  - End Num Colors: 3
+  - Tempo de Execução: 0.69 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 292.0
+  - Número de Cores Iniciais: 3
+  - Lista de Cores Iniciais: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  - Custo Final: 292.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 7.0
+  - Initial Num Colors: 3
+  - End Conflits: 0
+  - End Desbalance: 7.0
+  - End Num Colors: 3
+  - Tempo de Execução: 1.08 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 252.0
+  - Custo Máximo: 315.0
+  - Custo Médio: 294.00
+  - Custo Mediano: 315.00
+  - Desvio Padrão: 36.37
+  - 1º Quartil do Custo: 283.50
+  - 3º Quartil do Custo: 315.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 0.82 segundos
+  - Tempo Mediano de Execução: 0.81 segundos
+  - Desvio Padrão do Tempo: 0.06
+
+Melhor Solução para Random:
+  - Custo Inicial: 2282.0
+  - Número de Cores Iniciais: 23
+  - Lista de Cores Iniciais: [21, 10, 33, 8, 34, 27, 18, 24, 28, 14, 17, 30, 8, 19, 4, 8, 27, 6, 9, 16, 9, 14, 25, 24, 4, 32, 22, 14, 1, 33, 7, 19, 24, 33, 0]
+  - Custo Final: 252.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 2, 2, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+  - Initial Conflits: 4
+  - Initial Desbalance: 16.0
+  - Initial Num Colors: 23
+  - End Conflits: 0
+  - End Desbalance: 3.0
+  - End Num Colors: 3
+  - Tempo de Execução: 0.81 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 2261.0
+  - Número de Cores Iniciais: 23
+  - Lista de Cores Iniciais: [15, 24, 11, 6, 1, 15, 26, 0, 4, 31, 18, 9, 1, 29, 13, 32, 10, 34, 33, 4, 5, 26, 20, 5, 31, 16, 31, 32, 32, 18, 6, 23, 19, 24, 21]
+  - Custo Final: 315.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [3, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 2, 3, 2, 2, 0, 1, 0, 0, 0, 1, 2, 0, 1, 2, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1]
+  - Initial Conflits: 4
+  - Initial Desbalance: 14.0
+  - Initial Num Colors: 23
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.88 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0071 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0071 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: myciel3.txt
+Número de Vértices: 11, Número de Arestas: 20
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 315.0
+  - Custo Máximo: 315.0
+  - Custo Médio: 315.00
+  - Custo Mediano: 315.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 315.00
+  - 3º Quartil do Custo: 315.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.12 segundos
+  - Tempo Mediano de Execução: 0.11 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 315.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [0, 1, 0, 1, 2, 2, 1, 3, 1, 2, 0]
+  - Custo Final: 315.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [0, 1, 0, 3, 2, 2, 1, 3, 1, 2, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 4.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.14 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 315.0
+  - Número de Cores Iniciais: 4
+  - Lista de Cores Iniciais: [0, 1, 0, 1, 2, 2, 1, 3, 1, 2, 0]
+  - Custo Final: 315.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [0, 1, 0, 3, 2, 2, 1, 3, 1, 2, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 4.0
+  - Initial Num Colors: 4
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.14 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 315.0
+  - Custo Máximo: 315.0
+  - Custo Médio: 315.00
+  - Custo Mediano: 315.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 315.00
+  - 3º Quartil do Custo: 315.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.14 segundos
+  - Tempo Mediano de Execução: 0.15 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Random:
+  - Custo Inicial: 871.0
+  - Número de Cores Iniciais: 7
+  - Lista de Cores Iniciais: [10, 8, 6, 10, 2, 3, 10, 5, 1, 5, 3]
+  - Custo Final: 315.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [1, 3, 0, 0, 3, 1, 2, 2, 2, 1, 0]
+  - Initial Conflits: 3
+  - Initial Desbalance: 5.0
+  - Initial Num Colors: 7
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.15 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 871.0
+  - Número de Cores Iniciais: 7
+  - Lista de Cores Iniciais: [10, 8, 6, 10, 2, 3, 10, 5, 1, 5, 3]
+  - Custo Final: 315.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [1, 3, 0, 0, 3, 1, 2, 2, 2, 1, 0]
+  - Initial Conflits: 3
+  - Initial Desbalance: 5.0
+  - Initial Num Colors: 7
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.15 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0010 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0012 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: myciel4.txt
+Número de Vértices: 23, Número de Arestas: 71
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 399.0
+  - Custo Máximo: 399.0
+  - Custo Médio: 399.00
+  - Custo Mediano: 399.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 399.00
+  - 3º Quartil do Custo: 399.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.49 segundos
+  - Tempo Mediano de Execução: 0.49 segundos
+  - Desvio Padrão do Tempo: 0.10
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 399.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 1, 0, 1, 2, 2, 1, 3, 1, 2, 0, 2, 1, 3, 1, 2, 2, 1, 3, 1, 2, 4, 0]
+  - Custo Final: 399.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [0, 1, 0, 4, 2, 3, 1, 3, 1, 3, 0, 2, 1, 0, 1, 2, 2, 4, 4, 4, 2, 4, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 12.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 5
+  - Tempo de Execução: 0.60 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 399.0
+  - Número de Cores Iniciais: 5
+  - Lista de Cores Iniciais: [0, 1, 0, 1, 2, 2, 1, 3, 1, 2, 0, 2, 1, 3, 1, 2, 2, 1, 3, 1, 2, 4, 0]
+  - Custo Final: 399.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [0, 1, 0, 4, 2, 3, 1, 3, 1, 3, 0, 2, 1, 0, 1, 2, 2, 4, 4, 4, 2, 4, 3]
+  - Initial Conflits: 0
+  - Initial Desbalance: 12.0
+  - Initial Num Colors: 5
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 5
+  - Tempo de Execução: 0.60 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 399.0
+  - Custo Máximo: 399.0
+  - Custo Médio: 399.00
+  - Custo Mediano: 399.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 399.00
+  - 3º Quartil do Custo: 399.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.58 segundos
+  - Tempo Mediano de Execução: 0.63 segundos
+  - Desvio Padrão do Tempo: 0.08
+
+Melhor Solução para Random:
+  - Custo Inicial: 1452.0
+  - Número de Cores Iniciais: 13
+  - Lista de Cores Iniciais: [19, 4, 18, 10, 2, 6, 11, 15, 15, 16, 7, 3, 7, 16, 4, 1, 10, 6, 5, 6, 1, 11, 4]
+  - Custo Final: 399.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 0, 1, 1, 0, 2, 3, 2, 3, 3, 1, 4, 0, 2, 4, 4, 2, 0, 3, 3, 0, 4, 1]
+  - Initial Conflits: 4
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 13
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 5
+  - Tempo de Execução: 0.63 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 1452.0
+  - Número de Cores Iniciais: 13
+  - Lista de Cores Iniciais: [19, 4, 18, 10, 2, 6, 11, 15, 15, 16, 7, 3, 7, 16, 4, 1, 10, 6, 5, 6, 1, 11, 4]
+  - Custo Final: 399.0
+  - Número de Cores Finais: 5
+  - Lista de Cores Finais: [2, 0, 1, 1, 0, 2, 3, 2, 3, 3, 1, 4, 0, 2, 4, 4, 2, 0, 3, 3, 0, 4, 1]
+  - Initial Conflits: 4
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 13
+  - End Conflits: 0
+  - End Desbalance: 2.0
+  - End Num Colors: 5
+  - Tempo de Execução: 0.63 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0043 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0051 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: S09.txt
+Número de Vértices: 9, Número de Arestas: 8
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 220.0
+  - Custo Máximo: 220.0
+  - Custo Médio: 220.00
+  - Custo Mediano: 220.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 220.00
+  - 3º Quartil do Custo: 220.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.08 segundos
+  - Tempo Mediano de Execução: 0.08 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 220.0
+  - Número de Cores Iniciais: 2
+  - Lista de Cores Iniciais: [0, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Custo Final: 220.0
+  - Número de Cores Finais: 2
+  - Lista de Cores Finais: [0, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 7.0
+  - Initial Num Colors: 2
+  - End Conflits: 0
+  - End Desbalance: 7.0
+  - End Num Colors: 2
+  - Tempo de Execução: 0.08 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 220.0
+  - Número de Cores Iniciais: 2
+  - Lista de Cores Iniciais: [0, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Custo Final: 220.0
+  - Número de Cores Finais: 2
+  - Lista de Cores Finais: [0, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 7.0
+  - Initial Num Colors: 2
+  - End Conflits: 0
+  - End Desbalance: 7.0
+  - End Num Colors: 2
+  - Tempo de Execução: 0.08 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 415.0
+  - Custo Máximo: 415.0
+  - Custo Médio: 415.00
+  - Custo Mediano: 415.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 415.00
+  - 3º Quartil do Custo: 415.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.09 segundos
+  - Tempo Mediano de Execução: 0.09 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Random:
+  - Custo Inicial: 554.0
+  - Número de Cores Iniciais: 7
+  - Lista de Cores Iniciais: [8, 0, 1, 2, 3, 7, 2, 4, 4]
+  - Custo Final: 415.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [0, 3, 2, 1, 3, 3, 0, 1, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 3.0
+  - Initial Num Colors: 7
+  - End Conflits: 1
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.11 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 554.0
+  - Número de Cores Iniciais: 7
+  - Lista de Cores Iniciais: [8, 0, 1, 2, 3, 7, 2, 4, 4]
+  - Custo Final: 415.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [0, 3, 2, 1, 3, 3, 0, 1, 2]
+  - Initial Conflits: 0
+  - Initial Desbalance: 3.0
+  - Initial Num Colors: 7
+  - End Conflits: 1
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.11 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0007 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0008 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: S10.txt
+Número de Vértices: 10, Número de Arestas: 9
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 230.0
+  - Custo Máximo: 230.0
+  - Custo Médio: 230.00
+  - Custo Mediano: 230.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 230.00
+  - 3º Quartil do Custo: 230.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.09 segundos
+  - Tempo Mediano de Execução: 0.09 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 230.0
+  - Número de Cores Iniciais: 2
+  - Lista de Cores Iniciais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Custo Final: 230.0
+  - Número de Cores Finais: 2
+  - Lista de Cores Finais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 2
+  - End Conflits: 0
+  - End Desbalance: 8.0
+  - End Num Colors: 2
+  - Tempo de Execução: 0.09 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 230.0
+  - Número de Cores Iniciais: 2
+  - Lista de Cores Iniciais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Custo Final: 230.0
+  - Número de Cores Finais: 2
+  - Lista de Cores Finais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 2
+  - End Conflits: 0
+  - End Desbalance: 8.0
+  - End Num Colors: 2
+  - Tempo de Execução: 0.09 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 420.0
+  - Custo Máximo: 550.0
+  - Custo Médio: 469.33
+  - Custo Mediano: 438.00
+  - Desvio Padrão: 70.44
+  - 1º Quartil do Custo: 429.00
+  - 3º Quartil do Custo: 494.00
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 0.10 segundos
+  - Tempo Mediano de Execução: 0.09 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Random:
+  - Custo Inicial: 768.0
+  - Número de Cores Iniciais: 7
+  - Lista de Cores Iniciais: [4, 1, 4, 9, 8, 4, 0, 6, 5, 5]
+  - Custo Final: 420.0
+  - Número de Cores Finais: 4
+  - Lista de Cores Finais: [0, 0, 1, 1, 3, 3, 2, 3, 1, 2]
+  - Initial Conflits: 2
+  - Initial Desbalance: 4.0
+  - Initial Num Colors: 7
+  - End Conflits: 1
+  - End Desbalance: 2.0
+  - End Num Colors: 4
+  - Tempo de Execução: 0.11 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 568.0
+  - Número de Cores Iniciais: 7
+  - Lista de Cores Iniciais: [7, 3, 2, 2, 5, 2, 1, 8, 4, 1]
+  - Custo Final: 550.0
+  - Número de Cores Finais: 2
+  - Lista de Cores Finais: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+  - Initial Conflits: 0
+  - Initial Desbalance: 4.0
+  - Initial Num Colors: 7
+  - End Conflits: 4
+  - End Desbalance: 0.0
+  - End Num Colors: 2
+  - Tempo de Execução: 0.08 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0008 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0008 segundos (ponderado por MFLOPS)
+
+Resultados salvos
+
+
+################################################################################################################
+Nome da Instância: S20.txt
+Número de Vértices: 20, Número de Arestas: 19
+
+
+Estatísticas para a Estratégia: Greedy
+  - Custo Mínimo: 330.0
+  - Custo Máximo: 330.0
+  - Custo Médio: 330.00
+  - Custo Mediano: 330.00
+  - Desvio Padrão: 0.00
+  - 1º Quartil do Custo: 330.00
+  - 3º Quartil do Custo: 330.00
+  - Número de Vezes com Melhor Custo: 3
+  - Tempo Médio de Execução: 0.16 segundos
+  - Tempo Mediano de Execução: 0.16 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Greedy:
+  - Custo Inicial: 330.0
+  - Número de Cores Iniciais: 2
+  - Lista de Cores Iniciais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Custo Final: 330.0
+  - Número de Cores Finais: 2
+  - Lista de Cores Finais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 18.0
+  - Initial Num Colors: 2
+  - End Conflits: 0
+  - End Desbalance: 18.0
+  - End Num Colors: 2
+  - Tempo de Execução: 0.16 segundos
+
+Pior Solução para Greedy:
+  - Custo Inicial: 330.0
+  - Número de Cores Iniciais: 2
+  - Lista de Cores Iniciais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Custo Final: 330.0
+  - Número de Cores Finais: 2
+  - Lista de Cores Finais: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Initial Conflits: 0
+  - Initial Desbalance: 18.0
+  - Initial Num Colors: 2
+  - End Conflits: 0
+  - End Desbalance: 18.0
+  - End Num Colors: 2
+  - Tempo de Execução: 0.16 segundos
+
+Estatísticas para a Estratégia: Random
+  - Custo Mínimo: 642.0
+  - Custo Máximo: 738.0
+  - Custo Médio: 685.00
+  - Custo Mediano: 675.00
+  - Desvio Padrão: 48.77
+  - 1º Quartil do Custo: 658.50
+  - 3º Quartil do Custo: 706.50
+  - Número de Vezes com Melhor Custo: 1
+  - Tempo Médio de Execução: 0.14 segundos
+  - Tempo Mediano de Execução: 0.14 segundos
+  - Desvio Padrão do Tempo: 0.01
+
+Melhor Solução para Random:
+  - Custo Inicial: 1505.0
+  - Número de Cores Iniciais: 15
+  - Lista de Cores Iniciais: [8, 7, 9, 7, 16, 8, 2, 5, 3, 10, 11, 6, 8, 8, 18, 5, 12, 13, 4, 19]
+  - Custo Final: 642.0
+  - Número de Cores Finais: 7
+  - Lista de Cores Finais: [6, 2, 2, 1, 4, 5, 1, 1, 0, 5, 3, 3, 4, 2, 0, 4, 3, 6, 0, 5]
+  - Initial Conflits: 3
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 15
+  - End Conflits: 1
+  - End Desbalance: 2.0
+  - End Num Colors: 7
+  - Tempo de Execução: 0.15 segundos
+
+Pior Solução para Random:
+  - Custo Inicial: 1227.0
+  - Número de Cores Iniciais: 14
+  - Lista de Cores Iniciais: [9, 1, 16, 4, 15, 14, 17, 19, 10, 17, 5, 7, 3, 12, 4, 7, 9, 19, 17, 18]
+  - Custo Final: 738.0
+  - Número de Cores Finais: 3
+  - Lista de Cores Finais: [1, 1, 0, 0, 0, 2, 2, 0, 1, 2, 1, 2, 0, 1, 1, 0, 0, 2, 2, 2]
+  - Initial Conflits: 1
+  - Initial Desbalance: 8.0
+  - Initial Num Colors: 14
+  - End Conflits: 5
+  - End Desbalance: 1.0
+  - End Num Colors: 3
+  - Tempo de Execução: 0.13 segundos
+
+Tempos Ponderados para a Estratégia Greedy: 0.0014 segundos (ponderado por MFLOPS)
+
+Tempos Ponderados para a Estratégia Random: 0.0012 segundos (ponderado por MFLOPS)
+
+Resultados salvos
